@@ -1,1 +1,2 @@
 Learning git
+    -   Git is open source
