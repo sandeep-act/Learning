@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-This is for learning GIT
-Welcome to github
-=======
-Welcome to github
-Git is the best SCM tool available
-Git is easy to learn
->>>>>>> 6a13c3966062da72482c8bce483cfc7e9a74a958
+Hello Git !!!
