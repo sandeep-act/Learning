@@ -1,5 +1,5 @@
 Learning git
-    -   Git is amazing software
+    -   Git is amazing software. I like git.
     -   Git is open source
     -   Git is best SCCM software
     -   Added welcome file
