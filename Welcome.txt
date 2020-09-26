@@ -3,3 +3,4 @@ Git is awesome
 I like GIT
 Git is opensource
 Git is easy
+Git is SCM tool
